@@ -11,5 +11,4 @@ You can change it by replacing bot token in line 12 of main file with your own b
 
 Also you can replace genius api token with yourself which you get from <a href="https://docs.genius.com">https://docs.genius.com</a>
 
-<h3>You can email me for any bug report or any questions
-Email:pedram.monazzami@gmail.com<h3>
+<h3>You can email pedram.monazzami@gmail.com for any bug report or any questions<h3>
